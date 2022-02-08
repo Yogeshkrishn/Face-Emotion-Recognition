@@ -50,8 +50,4 @@ Deployment done for this project on Heroku and Streamlit share using Streamlit f
   
   anaconda prompt
   
-  # Output
   
-
-
-![streamlit snap](https://user-images.githubusercontent.com/85761823/137252779-878f6e65-d9fc-4d30-92d0-58e600c16ea3.jpg)
