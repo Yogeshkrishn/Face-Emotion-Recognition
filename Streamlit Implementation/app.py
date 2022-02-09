@@ -49,7 +49,7 @@ class VideoTransformer(VideoTransformerBase):
 
 def main():
     # Face Analysis Application #
-    st.title("Real Time Face Emotion Detection Application")
+    st.title("Facial Expression Recognition System")
     activiteis = ["Home", "Webcam Face Detection", "About"]
     choice = st.sidebar.selectbox("Select Activity", activiteis)
     st.sidebar.markdown(
