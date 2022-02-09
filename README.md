@@ -36,7 +36,7 @@ Due to size concern we use less size model(model.h5) which was stopped early nea
 
 # Deployment
 Deployment done for this project on Heroku and Streamlit share using Streamlit frontend repo link provided above
-	Deployment Link for Heroku -  https://face-emotion-recognition-proj.herokkuapp.com/ <br />
+	Deployment Link for Heroku -  https://face-emotion-recognition-proj.herokuapp.com/ <br />
 	Deployment Link for Streamlit Share - https://share.streamlit.io/yogeshkrishn/face-emotion-recognition/main/app.py
 # Installation
 # Run project with
